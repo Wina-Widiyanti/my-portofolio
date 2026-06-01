@@ -66,10 +66,7 @@ export const Experience = () => {
             </span>
           </h2>
           <p className="text-muted-foreground animate-fade-in animation-delay-200">
-            A selection of my work Lorem ipsum dolor sit amet consectetur,
-            adipisicing elit. Inventore, expedita praesentium omnis odit saepe
-            amet ipsum cum, non eum aperiam debitis quis provident, corrupti nam
-            asperiores totam? Tenetur, dolor esse.
+            A selection of my work 
           </p>
         </div>
 
